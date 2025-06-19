@@ -56,8 +56,8 @@ console.log(yubraj.sayHello());
 
 ```bash
 npx yubraj
----
-
+</div>
+<div align="center">
 ## 🔥 My Arsenal of Technologies
 
 ### 🌐 Frontend Magic
