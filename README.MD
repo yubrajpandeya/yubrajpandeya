@@ -254,7 +254,7 @@ if (challenges_arise) {
 [![Made with 💙 by Yubraj](https://img.shields.io/badge/Crafted%20with%20💙%20by-Yubraj%20Pandeya-00d9ff?style=for-the-badge&labelColor=000000)](https://github.com/yubrajpandeya)
 
 </div>
-## 🔧 Try My CLI Tool
+### 🔧 Try My CLI Tool
 
 🚀 Want to generate a cool GitHub card or get started with one of my tools?
 
@@ -262,4 +262,4 @@ if (challenges_arise) {
 
 ```bash
 npx yubraj
-</div>
+
