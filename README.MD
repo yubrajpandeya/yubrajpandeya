@@ -48,16 +48,7 @@ console.log(yubraj.sayHello());
 ```
 
 <div align="center">
-## 🔧 Try My CLI Tool
 
-🚀 Want to generate a cool GitHub card or get started with one of my tools?
-
-### 👉 Run this in your terminal:
-
-```bash
-npx yubraj
-</div>
-<div align="center">
 ## 🔥 My Arsenal of Technologies
 
 ### 🌐 Frontend Magic
@@ -262,4 +253,13 @@ if (challenges_arise) {
 
 [![Made with 💙 by Yubraj](https://img.shields.io/badge/Crafted%20with%20💙%20by-Yubraj%20Pandeya-00d9ff?style=for-the-badge&labelColor=000000)](https://github.com/yubrajpandeya)
 
+</div>
+## 🔧 Try My CLI Tool
+
+🚀 Want to generate a cool GitHub card or get started with one of my tools?
+
+### 👉 Run this in your terminal:
+
+```bash
+npx yubraj
 </div>
