@@ -197,21 +197,18 @@ console.log(yubraj.sayHello());
 <a href="https://linkedin.com/in/yubrajpandeya" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/yubrajpandeya" target="_blank">
+<a href="https://twitter.com/yubrajpandeya02" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&labelColor=000000" alt="Twitter"/>
 </a>
 <a href="https://instagram.com/yubrajpandeya" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=000000" alt="Instagram"/>
 </a>
-<a href="mailto:yubrajpandeya@gmail.com" target="_blank">
+<a href="mailto:yubrajpandeya654321@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000" alt="Gmail"/>
 </a>
-<a href="https://yubrajpandeya.dev" target="_blank">
+<a href="https://yubrajpandeya.com.np" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=00d9ff&labelColor=000000" alt="Portfolio"/>
 </a>
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yubrajpandeya)
 
 </div>
 
