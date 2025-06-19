@@ -48,6 +48,15 @@ console.log(yubraj.sayHello());
 ```
 
 <div align="center">
+## 🔧 Try My CLI Tool
+
+🚀 Want to generate a cool GitHub card or get started with one of my tools?
+
+### 👉 Run this in your terminal:
+
+```bash
+npx yubraj
+
 
 ## 🔥 My Arsenal of Technologies
 
