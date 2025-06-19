@@ -147,8 +147,7 @@ console.log(yubraj.sayHello());
 
 <img src="https://github-profile-trophy.vercel.app/?username=yubrajpandeya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
-### 🐍 Snake Game - Watch it devour my contributions!
-![Snake animation](https://raw.githubusercontent.com/yubrajpandeya/yubrajpandeya/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
