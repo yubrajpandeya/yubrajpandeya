@@ -56,7 +56,7 @@ console.log(yubraj.sayHello());
 
 ```bash
 npx yubraj
-'''
+---
 
 ## 🔥 My Arsenal of Technologies
 
